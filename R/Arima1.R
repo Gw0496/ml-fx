@@ -1,7 +1,7 @@
 #source("http://noucobi.com/Rsource/tameshi.txt")
 #install.packages("forecast", dependencies = TRUE)
 
-setwd("D:\\Test_ORJ\\data")             # 作業ディレクトリを変更する
+setwd("D:\\ml-fx\\ml-fx\\data")             # 作業ディレクトリを変更する
 getwd()                     # 現在の作業ディレクトリを確認する# 複数のデータファイルを一括してリストに読み込む
 
 # data input
